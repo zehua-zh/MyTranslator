@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Translator</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="enter_your_english_text_here">Enter your English text here</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="right_arrow">right arrow</string>
+    <string name="down_arrow">down arrow</string>
+    <string name="translate">translate</string>
+    <string name="copy_button">copy button</string>
+    <string name="copy">copy</string>
+    <string name="copy_translation_result">copy translation result</string>
+    <string name="challenges">challenges</string>
+    <string name="prompt">You may want to have a look at this word</string>
+    <string name="preference">Preference</string>
+    <string name="error_message">Sorry, no challenges could be generated due to lack of words.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="check">CHECK</string>
+</resources>
